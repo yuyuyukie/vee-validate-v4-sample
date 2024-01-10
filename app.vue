@@ -1,5 +1,9 @@
+<script setup lang="ts">
+import FormContainer from "~/components/FormContainer.vue";
+import FormProgress from "~/components/FormProgress.vue";
+
+</script>
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+  <FormContainer />
+  <FormProgress />
 </template>

@@ -16,9 +16,11 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
+    "@pinia/nuxt": "^0.5.1",
     "@types/cleave.js": "^1.4.12",
     "@vee-validate/rules": "^4.12.3",
     "cleave.js": "^1.6.0",
+    "pinia": "^2.1.7",
     "typescript": "^5.3.3",
     "vee-validate": "^4.12.3"
   }
